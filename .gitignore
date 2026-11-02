@@ -1,0 +1,20 @@
+# Delphi compiler and IDE output
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.rsm
+*.obj
+*.hpp
+*.identcache
+*.projdata
+*.local
+*.dsk
+*.stat
+__history/
+*.skincfg
+*.tvsconfig
+
+# Keep the checked-in command-line fixtures and BAT tests under Win32/Release.
